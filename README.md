@@ -29,4 +29,12 @@ Now assume they have bet, they are now in danger of what is called *hitting the 
 1. *The Triple Screw*: When the two outer cards are a low ace and a high ace, if the third card dealt is an ace as well, then that player now owes three times their bet to the *pot*.
 2. *Shooting the Moon*: If the two outer cards are two ranks apart, meaning only one card can possibly win them money, then the player is given the option to *shoot the moon* which means they can bet the minimum bet and if that one card pops up then they win the entire pot. 
 
-Each time the *pot* is emptied, the players all must pay their ante again to continue playing. The game can go on until the players all agree to stop. If there is still money in the *pot* when the game is concluded then the money will be evenly divided between all the players of the game. 
+Each time the *pot* is emptied, the players all must pay their ante again to continue playing. 
+
+### How to Win
+
+The object of this game is to win as much money as possible. With that in mind, there is no defined winning point so it all depends on the relative amounts of money once the game is concluded.
+
+## How to Finish Playing
+
+The game can go on until the players all agree to stop. If there is still money in the *pot* when the game is concluded then the money will be evenly divided between all the players of the game. 
