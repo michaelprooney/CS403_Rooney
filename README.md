@@ -31,7 +31,7 @@ Now assume they have bet, they are now in danger of what is called *hitting the 
 
 Each time the *pot* is emptied, the players all must pay their ante again to continue playing. 
 
-### How to Win
+## How to Win
 
 The object of this game is to win as much money as possible. With that in mind, there is no defined winning point so it all depends on the relative amounts of money once the game is concluded.
 
